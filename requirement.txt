@@ -1,0 +1,8 @@
+langchain
+openai
+streamlit
+python-environ
+tabulate
+mypy_extensions
+sqlalchemy
+tabulate
